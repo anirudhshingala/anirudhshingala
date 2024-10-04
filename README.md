@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhshingala&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhshingala" /> </p>
 
-- 🌱 I’m currently learning **Kubernets, Argocd, GCP**
-
-- 📝 I regularly write articles on [https://medium.com/@shingalaanirudh](https://medium.com/@shingalaanirudh)
+- 📝 I am on Medium [https://medium.com/@shingalaanirudh](https://medium.com/@shingalaanirudh)
 
 - 📫 How to reach me **shingalaanirudh1998@gmail.com**
 
